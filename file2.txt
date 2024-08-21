@@ -1,1 +1,2 @@
 Hello this is file2 from github
+This line is added to check the merge FETCH_HEAD
