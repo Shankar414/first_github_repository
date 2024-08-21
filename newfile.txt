@@ -1,1 +1,2 @@
 Hello git pull!!!!!!!!
+This line is added in the local git repo to make the git conflict
